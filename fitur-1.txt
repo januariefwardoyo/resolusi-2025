@@ -1,4 +1,4 @@
 fitur 1:
 - Membuat tampilan form login dan register
-- Menambahkan dengan menbuat fungsionalitas untuk tiap-tiap form
-- Menambahkan icon-icon untuk setiap form
+
+
